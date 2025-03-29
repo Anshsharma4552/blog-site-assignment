@@ -1,7 +1,7 @@
 # Blog System
 
 ## Overview
-This is a simple blog system built using **Vite + React.js**. It allows users to view a list of blogs and see details of individual blog posts. Additionally, the project integrates an external API ([https://restcountries.com/](https://dummyjson.com/docs/posts)) to fetch and display the blog.
+This is a simple blog system built using **Vite + React.js**. It allows users to view a list of blogs and see details of individual blog posts. Additionally, the project integrates an external API https://dummyjson.com/docs/posts to fetch and display the blog.
 
 ## Features
 ### Core Features
