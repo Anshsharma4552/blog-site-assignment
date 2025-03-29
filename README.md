@@ -28,7 +28,7 @@ Make sure you have the following installed:
 ### Installation Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/blog-system.git
+   git clone https://github.com/Anshsharma4552/blog-site-assignment
    cd blog-system
    ```
 2. **Install dependencies**
